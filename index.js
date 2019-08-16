@@ -1,28 +1,23 @@
 // exercise one
-// var my_name = "Dekevion";
-// var my_id = 101;
-// var my_address = "Memphis, Tn";
-//
-//
-//
-//
-// var template_string = (`My name is ${my_name}.
-// My id is ${my_id}.
-// My address is ${my_address}`);
-//
-// alert(template_string);
-// console.log(template_string);
-//
-// // // exercise 2
-//
-// var contestant = "1_M_l337!";
-// var score = "9001";
-//
-//
-// var other_template_string =(`Congratulations ${contestant}
-// your score is ${score}`);
-//
-// alert(other_template_string);
+var my_name = "Dekevion";
+var my_id = 101;
+var my_address = "Memphis, Tn";
+
+var template_string = (`My name is ${my_name}.
+My id is ${my_id}.
+My address is ${my_address}`);
+
+alert(template_string);
+console.log(template_string);
+
+// exercise 2
+var contestant = "1_M_l337!";
+var score = "9001";
+
+var other_template_string =(`Congratulations ${contestant}
+your score is ${score}`);
+
+alert(other_template_string);
 
 // exercise 3
 // let emptyArray = [];
